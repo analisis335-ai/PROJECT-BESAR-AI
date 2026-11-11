@@ -1,4 +1,4 @@
-# Prototipe Deteksi Manusia dan Indikasi Membawa Senjata dengan YOLOv8
+komputer vision  berbasis CNN (Convolutional Neural Network) deteksi Manusia dan Indikasi Membawa Senjata sebagai Pendukung Pengawasan Satwa Dilindungi
 
 Proyek AI untuk Mendukung Pengawasan Satwa Dilindungi
 
